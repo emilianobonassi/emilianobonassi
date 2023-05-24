@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋 I’m [Emiliano](https://twitter.com/emilianobonassi)
 
-<!--
-**emilianobonassi/emilianobonassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web3 builder, researcher and investor with a strong interest in security
 
-Here are some ideas to get you started:
+My journey in web3 starts in Q4/2019, I’ve been contributing as **builder and security researcher**, contributing to projects like [Yearn](https://yearn.finance/) and [Synthetix](https://synthetix.io/), and bootstrapping new products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Occasionally I invest in teams and projects as an **angel and advisor**.
+
+Discover more on my [website](https://emilianobonassi.com/).
+
+Contact me if you’re interested chatting more about web3 or a project you’re working on.
+
+[twitter]: https://twitter.com/emilianobonassi
+[telegram]: https://t.me/emilianobonassi  
+
+## Connect with me
+
+[<img align="left" alt="Emiliano | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Emiliano | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
