@@ -13,6 +13,10 @@ Contact me if you’re interested chatting more about web3 or a project you’re
 [twitter]: https://twitter.com/emilianobonassi
 [telegram]: https://t.me/emilianobonassi  
 
+
+![](https://img.shields.io/github/stars/emilianobonassi?style=social)
+![](https://visitor-badge.laobi.icu/badge?page_id=emilianobonassi)
+
 ## Connect with me
 
 [<img align="left" alt="Emiliano | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
