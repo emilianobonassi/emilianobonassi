@@ -1,14 +1,14 @@
 ## Hi there 👋 I’m [Emiliano](https://twitter.com/emilianobonassi)
 
-I am a web3 builder, researcher and investor with a strong interest in security
+I am a web3 infrastructure builder taking systems from 0→1 and scaling them into production-grade, high-performance, low-latency infrastructure, always with security at the core.
 
-My journey in web3 starts in Q4/2019, I’ve been contributing as **builder and security researcher**, contributing to projects like [Yearn](https://yearn.finance/) and [Synthetix](https://synthetix.io/), and bootstrapping new products.
+I’ve been contributing since 2019 to teams like Yearn, Synthetix, Optimism, and Arbitrum, and I occasionally invest or advise early-stage founders.
 
-Occasionally I invest in teams and projects as an **angel and advisor**.
+Today I focus on scaling blockchains in the real world at Conduit and serve on the Optimism and Arbitrum Security Councils.
 
 Discover more on my [website](https://emilianobonassi.com/).
 
-Contact me if you’re interested chatting more about web3 or a project you’re working on.
+If you’re building something ambitious, feel free to reach out.
 
 [twitter]: https://twitter.com/emilianobonassi
 [telegram]: https://t.me/emilianobonassi  
