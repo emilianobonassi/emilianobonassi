@@ -2,9 +2,10 @@
 
 I am a web3 infrastructure builder taking systems from 0→1 and scaling them into production-grade, high-performance, low-latency infrastructure, always with security at the core.
 
+In the last 2 years, I focused on scaling blockchains in the real world at Conduit.
 I’ve been contributing since 2019 to teams like Yearn, Synthetix, Optimism, and Arbitrum, and I occasionally invest or advise early-stage founders.
 
-Today I focus on scaling blockchains in the real world at Conduit and serve on the Optimism and Arbitrum Security Councils.
+Today I am working on ZK at Boundless and serve on the Optimism and Arbitrum Security Councils.
 
 Discover more on my [website](https://emilianobonassi.com/).
 
